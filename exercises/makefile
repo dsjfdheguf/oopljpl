@@ -1,8 +1,8 @@
 FILES :=           \
-    IsPrime1T      \
-    IsPrime2T      \
-    FactorialT     \
+    IsPrime1T
 
+#    IsPrime2T      \
+#    FactorialT     \
 #    ReduceT        \
 #    MapT           \
 #    RMSET          \
